@@ -1,0 +1,66 @@
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Menu.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Menu.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.UI.Framework.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Framework.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Helpers.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Genexus.Common.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.Language.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Controls.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.CommonI.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.BL.Framework.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.UI.Framework.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Framework.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Helpers.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Genexus.Common.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.Language.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Common.Controls.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.CommonI.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\bin\Debug\Artech.Architecture.BL.Framework.pdb
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Acme.Packages.Menu.MyEditor.resources
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Acme.Packages.Menu.Resources.resources
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Menu.dll
+C:\Program Files (x86)\GeneXus\GeneXus15PlatformSDK\Samples\Menu\obj\Debug\Menu.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Sincrum.Packages.KBToExcel.MyEditor.resources
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Sincrum.Packages.KBToExcel.Resources.resources
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Menu.csproj.GenerateResource.Cache
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\scmKBToExcel.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\scmKBToExcel.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.Common.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Properties.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Framework.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Layers.Common.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Architecture.Common.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.Language.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Controls.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.CommonI.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.BL.Framework.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.BL.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Layers.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.Common.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.UI.Framework.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Framework.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Helpers.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Properties.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Genexus.Common.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Framework.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Layers.Common.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Architecture.Common.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.Language.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Common.Controls.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.CommonI.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Architecture.BL.Framework.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.BL.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\bin\Debug\Artech.Udm.Layers.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\scmKBToExcel.dll
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\scmKBToExcel.pdb
+D:\Develop\GenexusComponents\Extensions\KBToExcelCSV\obj\Debug\Sincrum.Packages.KBToExcel.KBToExcelUI.resources

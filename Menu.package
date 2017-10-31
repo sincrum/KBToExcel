@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Package xmlns="http://schemas.genexus.com/addin/v1.0" id="163faefb-1d07-4a23-acca-5f287020bcac" name="Menu">
+
+	<!--
+	Resources may contain images and strings.
+	Commands are translated using strings in the resources when
+	there is a resource string with the same name as a command id
+	-->
+	<Resources>
+		<Resource type="strings" name="Sincrum.Packages.KBToExcel.Resources"/>
+		<Resource type="images" name="Sincrum.Packages.KBToExcel.Resources"/>
+	</Resources>
+
+	<!-- These are locally defined commands -->
+	<Commands>
+		<CommandDefinition id="ExportKBToExcelCSV"/>
+
+  </Commands>
+
+	<!-- You can group commands and then reference them by the group id-->
+	<Groups>
+		<Group id="KBToExcel">
+			<Command refid="ExportKBToExcelCSV"/>
+		</Group>
+	</Groups>
+	
+	<Menus>
+		<Menu type="menubar">
+			<Popup name="Sincrum" insertBefore="Window" >
+        
+				<!-- You can reference groups -->
+				<Group refid="KBToExcel" />
+				
+			</Popup>
+		</Menu>
+		
+	</Menus>
+</Package>
